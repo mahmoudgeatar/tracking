@@ -116,7 +116,6 @@ class Edit extends ChangeNotifier {
 
   BitmapDescriptor customMarker;
   BitmapDescriptor lastTripMarker;
-
 //  getCustomMarker() async {
 //    for (var i = 0; i < datas.length; i++) {
 //      if (datas[i].statusUnit == 'Offline') {
